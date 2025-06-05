@@ -2,6 +2,10 @@
 
 This repository for the Frejun QA/QC assignment utilizes **Playwright** and **Pytest** to support automated testing processes. Comprehensive details regarding test coverage and setup instructions are outlined below.
 
+### Testing Website
+
+Tests are performed on [Sauce Demo](https://www.saucedemo.com/).
+
 ## ✅ Test Coverage
 
 Our test suite includes **40 test cases** covering essential functionality:
