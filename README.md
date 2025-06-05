@@ -4,7 +4,8 @@ This repository for the Frejun QA/QC assignment utilizes **Playwright** and **Py
 
 ### Testing Website
 
-Tests are performed on [Sauce Demo](https://www.saucedemo.com/).
+Tests are performed on [Sauce Demo](https://www.saucedemo.com/). You can check the complete test results in the HTML report.
+
 
 ## ✅ Test Coverage
 
