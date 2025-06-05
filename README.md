@@ -9,7 +9,7 @@ Tests are performed on [Sauce Demo](https://www.saucedemo.com/). You can check t
 
 ## ✅ Test Coverage
 
-Our test suite includes **40 test cases** covering essential functionality:
+Test suite includes **40 test cases** covering essential functionality:
 
 - **🔑 Login**
 - **↕️ Sorting of Items**
